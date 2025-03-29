@@ -23,9 +23,6 @@ banner = """
 
 print(banner)
 
-username = ''
-password = ''
-
 discord_webhook_url = 'WEBHOOK_URL'
 
 def send_discord_message(title, description, color):
